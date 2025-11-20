@@ -15,12 +15,6 @@ Chaque projet dispose de son propre répertoire contenant :
 
 ## 📑 Liste des projets
 
-### 3️⃣ — Requêtez une base de données avec SQL
-
-**Résumé :** Aidez une entreprise d’assurance en analysant le marché via des requêtes SQL.
-
-**Compétences :** Charger des données dans une base • Créer un schéma • Rédiger des scripts SQL pour l’aide à la décision.
-
 ### 4️⃣ — Réalisez une étude de santé publique avec R ou Python
 
 **Résumé :** Analysez les données FAO sur la faim dans le monde à l’aide de Python/R.
