@@ -43,7 +43,7 @@ Chaque projet dispose de son propre répertoire contenant :
 
 **Résumé :** Collectez et nettoyez des données RH, puis mesurez les écarts d’égalité F/H.
 
-**Compétences :** Collecter des données conformes RGPD • Vérifier qualité et cohérence • Agréger et nettoyer les datasets. — Analysez les ventes d’une librairie avec R ou Python
+**Compétences :** Collecter des données conformes RGPD • Vérifier qualité et cohérence • Agréger et nettoyer les datasets.
 
 ### 9️⃣ — [Analysez les ventes d’une librairie avec R ou Python](./projet-09/)
 
