@@ -1,6 +1,6 @@
 <img width="929" height="86" alt="oc" src="https://github.com/user-attachments/assets/e57bae50-87d1-4d05-a5e1-5771e8e8b940" />
 
-Ce dépôt regroupe une sélection de projets réalisés dans le cadre du parcours diplômant [Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst) **(RNCP niveau 6)** proposé par **OpenClassrooms**.
+Ce dépôt regroupe une sélection de projets réalisés dans le cadre du parcours diplômant [Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst) **(RNCP 6)** proposé par **OpenClassrooms**.
 
 Chaque projet dispose de son propre répertoire contenant :
 
