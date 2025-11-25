@@ -11,7 +11,7 @@ En mission chez BottleNeck, marchand de vin haut de gamme, je suis chargé de ra
 ## &#128295; Outils utilisés
 - Python (Pandas, NumPy)
 - Jupyter Notebook
-- Bibliothèques de visualisation (Matplotlib, Seaborn)
+- Bibliothèques de visualisation (Matplotlib, Seaborn, Plotly)
 
 ## &#127891; Compétences acquises
 - Nettoyage, préparation et rapprochement de fichiers issus de systèmes hétérogènes
