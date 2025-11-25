@@ -11,7 +11,6 @@ Consultant Data Analyst pour l’ONG DWFA, je suis chargé de produire un tablea
 - Power BI
 - Power Query (nettoyage et automatisation de la préparation des données)
 - DAX (mesures, calculs, KPIs)
-- Sources externes : OMS, FAO, datasets fournis par le Data Engineer
 
 ## &#127891; Compétences acquises
 - Recherche, sélection et enrichissement d’indicateurs pertinents
