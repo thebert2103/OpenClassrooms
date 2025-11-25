@@ -7,7 +7,7 @@ En mission chez Sanitoral en tant que consultant Data Analyst (ESN Data), j’ai
 - Formaliser les besoins via un Product Strategy Canvas.
 - Préparer et automatiser le nettoyage des données dans Power Query.
 - Concevoir un tableau de bord Power BI pour suivre avancement, coûts et retards.
-- Documenter le modèle de données et la procédure de mise à jour hebdomadaire.
+- Documenter le modèle de données et la procédure de mise à jour.
 ## &#128295; Outils utilisés
 - Power BI
 - Power Query (nettoyage et automatisation de la préparation des données)
