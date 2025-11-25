@@ -1,7 +1,7 @@
 # Projet 9 : Analyser les ventes d’une librairie en ligne
 
 ## &#128203; Scénario
-Recruté comme Data Analyst chez Lapage, une librairie historique récemment digitalisée, j’ai été chargé d’analyser les indicateurs de vente ainsi que le comportement des clients en ligne.
+Recruté comme Data Analyst chez Lapage, une librairie historique récemment digitalisée, je sis chargé d’analyser les indicateurs de vente ainsi que le comportement des clients en ligne.
 
 ## &#127919; Objectifs
 - Analyser les indicateurs de vente clés de la librairie en ligne.
