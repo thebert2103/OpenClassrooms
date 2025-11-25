@@ -1,7 +1,7 @@
 # Projet 12 : Détecter des faux billets
 
 ## &#128203; Scénario
-En mission pour l’Organisation Nationale de Lutte contre le Faux-Monnayage (ONCFM), j’ai développé un modèle de machine learning capable de prédire si un billet est vrai ou faux à partir de ses dimensions.
+En mission pour l’Organisation Nationale de Lutte contre le Faux-Monnayage (ONCFM), je suis chargé de développer un modèle de machine learning capable de prédire si un billet est vrai ou faux à partir de ses dimensions.
 
 ## &#127919; Objectifs
 - Explorer, nettoyer et modéliser des données réelles de billets.
