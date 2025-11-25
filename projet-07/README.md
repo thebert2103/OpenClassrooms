@@ -1,7 +1,7 @@
 # Projet 7 : Créer un tableau de bord dynamique pour suivre l’avancement des projets
 
 ## &#128203; Scénario
-En mission chez Sanitoral en tant que consultant Data Analyst (ESN Data), j’ai été chargé de concevoir un tableau de bord Power BI permettant de suivre l’avancement des projets, les coûts, les retards et les performances globales du portefeuille.
+En mission chez Sanitoral en tant que consultant Data Analyst (ESN Data), je suis chargé de concevoir un tableau de bord Power BI permettant de suivre l’avancement des projets, les coûts, les retards et les performances globales du portefeuille.
 
 ## &#127919; Objectifs
 - Formaliser les besoins via un Product Strategy Canvas.
