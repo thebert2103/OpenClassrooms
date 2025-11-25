@@ -1,7 +1,7 @@
 # Projet 8 : Analyser les indicateurs d’égalité femmes/hommes en respect du RGPD
 
 ## &#128203; Scénario
-Data analyst dans un cabinet de conseil en transformation digitale, je suis chargé d’aider la DRH à automatiser un rapport sur l’égalité professionnelle femmes/hommes à partir de données RH non anonymisées
+Data analyst dans un cabinet de conseil en transformation digitale, je suis chargé d’aider la DRH à automatiser un rapport sur l’égalité professionnelle femmes/hommes à partir de données RH non anonymisées.
 
 ## &#127919; Objectifs
 - Automatiser un diagnostic égalité femmes/hommes via un workflow KNIME.
