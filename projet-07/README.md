@@ -1,22 +1,26 @@
 # Projet 7 : Créer un tableau de bord dynamique pour suivre l’avancement des projets
 
 ## &#128203; Scénario
-En mission chez BottleNeck, marchand de vin haut de gamme, je suis chargé de rapprocher plusieurs sources de données (ERP, site e-commerce, table de liaison) pour fiabiliser la gestion des stocks et analyser les ventes d’octobre.
+En mission chez Sanitoral en tant que consultant Data Analyst (ESN Data), j’ai été chargé de concevoir un tableau de bord Power BI permettant de suivre l’avancement des projets, les coûts, les retards et les performances globales du portefeuille.
 
 ## &#127919; Objectifs
-nettoyer et consolider les données, détecter les erreurs, calculer des indicateurs clés (CA, marges, rotation de stock) et produire une analyse exploitable par le comité de direction..
-
+- Formaliser les besoins via un Product Strategy Canvas.
+- Préparer et automatiser le nettoyage des données dans Power Query.
+- Concevoir un tableau de bord Power BI pour suivre avancement, coûts et retards.
+- Documenter le modèle de données et la procédure de mise à jour hebdomadaire.
 ## &#128295; Outils utilisés
-- Python (Pandas, NumPy)
-- Jupyter Notebook
-- Bibliothèques de visualisation (Matplotlib, Seaborn)
+- Power BI
+- Power Query (nettoyage et automatisation de la préparation des données)
+- DAX (mesures, calculs, KPIs)
 
 ## &#127891; Compétences acquises
-- Nettoyage, préparation et rapprochement de fichiers issus de systèmes hétérogènes
-- Jointures et consolidation de données (ERP, web, table de correspondance)
-- Analyse exploratoire et univariée des données
-- Détection de valeurs aberrantes (Z-Score, écart interquartile, boxplots)
-- Calcul d’indicateurs business : chiffre d’affaires, top produits, loi 20/80, marges, rotation et mois de stock
-- Analyse de corrélations entre variables quantitatives (prix, stock, ventes, marges, etc.)
-- Formalisation des corrections à apporter et sensibilisation à la conformité RGPD
-- Synthèse et présentation des résultats à un comité de direction
+- Analyse du besoin client & définition des user stories
+- Conception d’un Product Strategy Canvas pour structurer un projet BI
+- Préparation, transformation et automatisation des données via Power Query
+- Modélisation des données et gestion des relations dans Power BI
+- Création de visualisations adaptées : avancement, budget, retards, performances
+- Calcul de KPIs projet avec DAX
+- Identification d’anomalies et problèmes structurels dans les données historiques
+- Construction d’un tableau de bord lisible, dynamique et exploitable par la direction
+- Documentation intégrée : procédure de mise à jour, modèle de données, PSC
+- Restitution client avec storytelling orienté prise de décision
