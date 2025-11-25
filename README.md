@@ -39,25 +39,25 @@ Chaque projet dispose de son propre répertoire contenant :
 
 **Compétences :** Produire un reporting • Interpréter les visualisations pour piloter.
 
-### 8️⃣ — [Analyser des indicateurs de l’égalité femmes-hommes](./projet-08/)
+### 8️⃣ — [Analyser les indicateurs d'égalité femmes-hommes](./projet-08/)
 
 **Résumé :** Collecter et nettoyez des données RH, puis mesurer les écarts d’égalité F/H.
 
 **Compétences :** Collecter des données conformes RGPD • Vérifier qualité et cohérence • Agréger et nettoyer les datasets.
 
-### 9️⃣ — [Analyser les ventes d’une librairie](./projet-09/)
+### 9️⃣ — [Analyser les ventes d’une librairie en ligne](./projet-09/)
 
 **Résumé :** Analyser le comportement d’achat et réaliser des prévisions de ventes.
 
 **Compétences :** Analyses de séries temporelles • Tests statistiques • Validation d’hypothèses.
 
-### 🔟 — [Faire une étude sur l’eau potable](./projet-10/)
+### 🔟 — [Réaliser une étude sur l'accès à l’eau potable](./projet-10/)
 
 **Résumé :** Créer des dashboards Power BI pour visualiser l’accès à l’eau potable dans le monde.
 
 **Compétences :** Data storytelling dynamique • Visualisation adaptée au public • Création de dashboards interactifs.
 
-### 1️⃣1️⃣ — [Produire une étude de marché](./projet-11/)
+### 1️⃣1️⃣ — [Produire une étude de marché internationale](./projet-11/)
 
 **Résumé :** Utiliser clustering et ACP pour analyser le marché et faire des recommandations.
 
