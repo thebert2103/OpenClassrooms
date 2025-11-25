@@ -4,7 +4,9 @@
 En mission chez BottleNeck, marchand de vin haut de gamme, je suis chargé de rapprocher plusieurs sources de données (ERP, site e-commerce, table de liaison) pour fiabiliser la gestion des stocks et analyser les ventes d’octobre.
 
 ## &#127919; Objectifs
-nettoyer et consolider les données, détecter les erreurs, calculer des indicateurs clés (CA, marges, rotation de stock) et produire une analyse exploitable par le comité de direction..
+- Consolider et nettoyer les données issues de l’ERP et du site web.
+- Détecter erreurs et valeurs aberrantes, et calculer les indicateurs clés.
+- Produire une analyse synthétique pour le comité de direction.
 
 ## &#128295; Outils utilisés
 - Python (Pandas, NumPy)
