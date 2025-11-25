@@ -33,7 +33,7 @@ Chaque projet dispose de son propre répertoire contenant :
 
 **Compétences :** Pré-traitement • Nettoyage de données • Analyses uni et multivariées • Gestion des incohérences RGPD.
 
-### 7️⃣ — [Créer un tableau de bord dynamique](./projet-07/)
+### 7️⃣ — [Créer un tableau de bord dynamique pour suivre l’avancement des projets](./projet-07/)
 
 **Résumé :** Développer un outil de suivi de projets pour identifier les retards et faciliter les décisions.
 
