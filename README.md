@@ -15,56 +15,56 @@ Chaque projet dispose de son propre répertoire contenant :
 
 ## 📑 Liste des projets
 
-### 4️⃣ — [Réalisez une étude de santé publique avec R ou Python](./projet-04/)
+### 4️⃣ — [Réaliser une étude de santé publique](./projet-04/)
 
-**Résumé :** Analysez les données FAO sur la faim dans le monde à l’aide de Python/R.
+**Résumé :** Analyser les données FAO sur la faim dans le monde à l’aide de Python/R.
 
 **Compétences :** Explorer et analyser un jeu de données avec des outils métiers.
 
-### 5️⃣ — [Créez et utilisez une base de données immobilière avec SQL](./projet-05/)
+### 5️⃣ — [Créer et utilisez une base de données immobilière](./projet-05/)
 
-**Résumé :** Concevez une base immobilière RGPD-friendly et réalisez des requêtes ciblées.
+**Résumé :** Concevevoir une base immobilière RGPD-friendly et réaliser des requêtes ciblées.
 
 **Compétences :** Concevoir une base en respect des normes • Effectuer des requêtes SQL métiers • Gérer une base dans le cadre réglementaire.
 
-### 6️⃣ — [Optimisez la gestion des données d’une boutique](./projet-06/)
+### 6️⃣ — [Optimiser la gestion des données d’une boutique](./projet-06/)
 
-**Résumé :** Organisez des jeux de données hétérogènes pour réaliser l’analyse demandée.
+**Résumé :** Organiser des jeux de données hétérogènes pour réaliser l’analyse demandée.
 
 **Compétences :** Pré-traitement • Nettoyage de données • Analyses uni et multivariées • Gestion des incohérences RGPD.
 
-### 7️⃣ — [Créez un tableau de bord dynamique avec Power BI](./projet-07/)
+### 7️⃣ — [Créer un tableau de bord dynamique](./projet-07/)
 
-**Résumé :** Développez un outil de suivi de projets pour identifier les retards et faciliter les décisions.
+**Résumé :** Développer un outil de suivi de projets pour identifier les retards et faciliter les décisions.
 
 **Compétences :** Produire un reporting • Interpréter les visualisations pour piloter.
 
-### 8️⃣ — [Analysez des indicateurs de l’égalité femmes-hommes](./projet-08/)
+### 8️⃣ — [Analyser des indicateurs de l’égalité femmes-hommes](./projet-08/)
 
-**Résumé :** Collectez et nettoyez des données RH, puis mesurez les écarts d’égalité F/H.
+**Résumé :** Collecter et nettoyez des données RH, puis mesurer les écarts d’égalité F/H.
 
 **Compétences :** Collecter des données conformes RGPD • Vérifier qualité et cohérence • Agréger et nettoyer les datasets.
 
-### 9️⃣ — [Analysez les ventes d’une librairie avec R ou Python](./projet-09/)
+### 9️⃣ — [Analyser les ventes d’une librairie](./projet-09/)
 
-**Résumé :** Analysez le comportement d’achat et réalisez des prévisions de ventes.
+**Résumé :** Analyser le comportement d’achat et réaliser des prévisions de ventes.
 
 **Compétences :** Analyses de séries temporelles • Tests statistiques • Validation d’hypothèses.
 
-### 🔟 — [Faites une étude sur l’eau potable](./projet-10/)
+### 🔟 — [Faire une étude sur l’eau potable](./projet-10/)
 
-**Résumé :** Créez des dashboards Power BI pour visualiser l’accès à l’eau potable dans le monde.
+**Résumé :** Créer des dashboards Power BI pour visualiser l’accès à l’eau potable dans le monde.
 
 **Compétences :** Data storytelling dynamique • Visualisation adaptée au public • Création de dashboards interactifs.
 
-### 1️⃣1️⃣ — [Produisez une étude de marché avec R ou Python](./projet-11/)
+### 1️⃣1️⃣ — [Produire une étude de marché](./projet-11/)
 
-**Résumé :** Utilisez clustering et ACP pour analyser le marché et faire des recommandations.
+**Résumé :** Utiliser clustering et ACP pour analyser le marché et faire des recommandations.
 
 **Compétences :** Analyse multivariée • Réduction de dimension • Sélection de variables • Modèles d’apprentissage non supervisés.
 
-### 1️⃣2️⃣ — [Détectez des faux billets avec R ou Python](./projet-12/)
+### 1️⃣2️⃣ — [Détecter des faux billets](./projet-12/)
 
-**Résumé :** Construisez un modèle prédictif pour détecter les faux billets via clustering et régression logistique.
+**Résumé :** Construire un modèle prédictif pour détecter les faux billets via clustering et régression logistique.
 
 **Compétences :** Analyse exploratoire • Clustering • Modélisation prédictive • Régression logistique.
