@@ -4,11 +4,9 @@
 Embauché chez Laplace Immo, je suis chargé de concevoir et modifier une base de données immobilière à partir de données DVF, INSEE et référentiels géographiques, afin de mieux prévoir le prix de vente des biens immobilier.
 
 ## &#127919; Objectifs
-- Créer un dictionnaire des données conforme au RGPD.
-- Modéliser le schéma relationnel en 3NF.
-- Créer la base de données.
-- Implémenter les tables.
-- rédiger des requêtes SQL avancées.
+- Concevoir un schéma relationnel en 3NF et créer la base.
+- Importer, structurer et contrôler les données (DVF, INSEE, régions).
+- Rédiger des requêtes SQL avancées pour analyser le marché immobilier.
 
 ## &#128295; Outils utilisés
 - SQL
