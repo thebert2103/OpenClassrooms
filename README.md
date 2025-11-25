@@ -21,7 +21,7 @@ Chaque projet dispose de son propre répertoire contenant :
 
 **Compétences :** Explorer et analyser un jeu de données avec des outils métiers.
 
-### 5️⃣ — [Créer et utilisez une base de données immobilière](./projet-05/)
+### 5️⃣ — [Créer et exploiter une base de données immobilière](./projet-05/)
 
 **Résumé :** Concevevoir une base immobilière RGPD-friendly et réaliser des requêtes ciblées.
 
