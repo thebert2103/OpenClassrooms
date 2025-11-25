@@ -1,7 +1,7 @@
 # Projet 4 : Réaliser une étude de santé publique
 
 ## &#128203; Scénario
-Intégré à une équipe de la *[Food and Agriculture Organization of the United Nations (FAO)](http://www.fao.org/home/fr/)*, j’ai été chargé d’analyser la partie “historique” d’une vaste étude internationale sur l’alimentation. Mon rôle : explorer et préparer les données de 2013 à 2017, reproduire les analyses définies en amont et proposer des insights complémentaires pour enrichir la compréhension globale des tendances nutritionnelles.
+Intégré à une équipe de la *[Food and Agriculture Organization of the United Nations (FAO)](http://www.fao.org/home/fr/)*, je suis chargé d’analyser la partie “historique” d’une vaste étude internationale sur l’alimentation. Mon rôle : explorer et préparer les données de 2013 à 2017, reproduire les analyses définies en amont et proposer des insights complémentaires pour enrichir la compréhension globale des tendances nutritionnelles.
 
 ## &#127919; Objectifs
 - Explorer et nettoyer un jeu de données multi-annuel.
