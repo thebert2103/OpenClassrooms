@@ -16,9 +16,11 @@ Embauché chez Laplace Immo, je suis chargé de concevoir et modifier une base d
 - SQLiteStudio
 
 ## &#127891; Compétences acquises
-- Nettoyage et préparation avancée de données.
-- Analyse exploratoire complète (EDA).
-- Visualisation de données et choix de graphiques pertinents.
-- Détection d’anomalies, tendances et insights clés.
-- Structuration d’un notebook analytique reproductible.
-- Communication de résultats avec slides professionnels.
+- Modélisation de base de données relationnelle
+- Conception et mise à jour de schéma relationnel à partir de nouvelles sources
+- Création de tables, gestion des clés primaires/étrangères et contraintes d’intégrité
+- Rédaction de dictionnaires de données complets
+- Écriture de requêtes SQL avancées : jointures multiples, agrégations, filtres
+- Contrôles qualité et volumétriques sur les données importées
+- Sensibilisation et vérifications liées à la conformité RGPD
+- Structuration et présentation des choix de modélisation et des résultats d’analyse
