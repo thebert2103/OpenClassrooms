@@ -1,4 +1,4 @@
-# Projet 5 : Créer et exploiter une base de données immobilière avec SQL
+# Projet 5 : Créer et exploiter une base de données immobilière
 
 ## &#128203; Scénario
 Embauché chez Laplace Immo, je suis chargé de concevoir et modifier une base de données immobilière à partir de données DVF, INSEE et référentiels géographiques, afin de mieux prévoir le prix de vente des biens immobilier.
