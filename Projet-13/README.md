@@ -1,6 +1,6 @@
 # 🚀 Projet 13 — Portfolio Data Analyst Aéroworld
 
-Building a professional-grade portfolio & BI assets for a demanding aeronautical client.
+Construction d'un Portfolio professionnel pour le client Aéroworld (aéronautique)
 
 # 🧭 Sommaire
 
@@ -28,7 +28,7 @@ Building a professional-grade portfolio & BI assets for a demanding aeronautical
 
 📄 Organisation complète du projet et structure du portfolio.
 
-👉 [Télécharger la carte mentale](Mind_map.jpg)
+👉 [Voir la carte mentale](Mind_map.jpg)
 
 ## 📌 Analyse des besoins métiers du client Aéroworld
 
@@ -58,7 +58,7 @@ Maintenance prédictive & optimisation
 
 ## 🎬 Vidéo de formation Power BI
 
-Formation courte expliquant comment créer un visuel Power BI.
+Formation courte expliquant comment créer des visuels Power BI.
 
 [![Watch the video](https://img.shields.io/badge/🎥%20Voir%20la%20vidéo-FF0000?style=for-the-badge)](https://github.com/thebert2103/OpenClassrooms/releases/download/v1.0.0/Creer_un_dashboard_PowerBI.mp4)
 
@@ -105,11 +105,7 @@ Wordcloud
 
 Analyse par catégories
 
-Tendances temporelles
-
 Tableau de veille
-
-Insights clés du mois
 
 KPI de synthèse
 
