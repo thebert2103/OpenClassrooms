@@ -27,7 +27,8 @@ Building a professional-grade portfolio & BI assets for a demanding aeronautical
 ## 🧠 Carte mentale
 
 📄 Organisation complète du projet et structure du portfolio.
-👉 Télécharger la carte mentale
+
+👉 [Télécharger la carte mentale]()
 
 ## 📌 Analyse des besoins métiers du client Aéroworld
 
@@ -41,17 +42,19 @@ Analyse opérationnelle temps réel
 
 Maintenance prédictive & optimisation
 
-👉 Accéder à l’analyse complète
+👉 [Accéder à l’analyse complète]()
 
 ## 📘 Cahier des charges du projet portfolio
 
 📑 Spécifications fonctionnelles du portfolio, livrables, contraintes et périmètre.
-👉 Voir le cahier des charges
+
+👉 [Voir le cahier des charges]()
 
 ## 📅 Gantt du projet portfolio
 
 🗂️ Planning détaillé des étapes du projet (du 17/11/2025 au 05/12/2025).
-👉 Voir le Gantt
+
+👉 [Voir le Gantt]()
 
 ## 🎬 Vidéo de formation Power BI
 
@@ -64,17 +67,19 @@ Formation courte expliquant comment créer un visuel Power BI.
 
 📘 Guide pédagogique expliquant comment choisir, créer et mettre en forme des graphiques Power BI.
 
-👉 Télécharger le guide
+👉 [Télécharger le guide]()
 
 ## 🖌️ Mock-up du Profil
 
 ✏️ Design initial de la page profil du portfolio Power BI.
+
 👉 [Voir le mock-up profil](Dashboard%20Profil.jpg)
 
 ## 🖌️ Mock-up de la veille technologique
 
 ✏️ Maquette du dashboard de veille technologique.
-👉 Voir le mock-up veille
+
+👉 [Voir le mock-up veille]()
 
 ## 📈 Dashboard du profil
 
@@ -90,7 +95,7 @@ Projets
 
 KPI personnels
 
-👉 Accéder au dashboard profil
+👉 [Accéder au dashboard profil]()
 
 ## 🛰️ Dashboard de la veille technologique
 
@@ -108,7 +113,7 @@ Insights clés du mois
 
 KPI de synthèse
 
-👉 Accéder au dashboard veille techno
+👉 [Accéder au dashboard veille techno]()
 
 ## 🏁 Projet réalisé dans le cadre du Parcours Data Analyst — OpenClassrooms
 
