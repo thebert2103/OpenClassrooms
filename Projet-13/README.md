@@ -95,7 +95,7 @@ Projets
 
 KPI personnels
 
-👉 [Accéder au dashboard profil]()
+👉 [Accéder au dashboard profil](Dashboard_Profil.pbix)
 
 ## 🛰️ Dashboard de la veille technologique
 
