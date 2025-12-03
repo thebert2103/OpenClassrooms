@@ -67,7 +67,7 @@ Formation courte expliquant comment créer un visuel Power BI.
 
 📘 Guide pédagogique expliquant comment choisir, créer et mettre en forme des graphiques Power BI.
 
-👉 [Télécharger le guide](Guide_de_creation_de_graphiques_avec_powerbi.pdf)
+👉 [Accéder au guide](Guide_de_creation_de_graphiques_avec_powerbi.pdf)
 
 ## 🖌️ Mock-up du Profil
 
