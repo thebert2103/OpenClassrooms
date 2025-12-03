@@ -28,7 +28,7 @@ Building a professional-grade portfolio & BI assets for a demanding aeronautical
 
 📄 Organisation complète du projet et structure du portfolio.
 
-👉 [Télécharger la carte mentale]()
+👉 [Télécharger la carte mentale](Mind_map.jpg)
 
 ## 📌 Analyse des besoins métiers du client Aéroworld
 
