@@ -42,19 +42,19 @@ Analyse opérationnelle temps réel
 
 Maintenance prédictive & optimisation
 
-👉 [Accéder à l’analyse complète]()
+👉 [Accéder à l’analyse complète](Analyse_des_besoins_Aeroworld.pdf)
 
 ## 📘 Cahier des charges du projet portfolio
 
 📑 Spécifications fonctionnelles du portfolio, livrables, contraintes et périmètre.
 
-👉 [Voir le cahier des charges]()
+👉 [Voir le cahier des charges](Cahier_des_charges_portfolio.pdf)
 
 ## 📅 Gantt du projet portfolio
 
 🗂️ Planning détaillé des étapes du projet (du 17/11/2025 au 05/12/2025).
 
-👉 [Voir le Gantt]()
+👉 [Voir le Gantt](Gantt_Projet_Portfolio.pbix)
 
 ## 🎬 Vidéo de formation Power BI
 
@@ -67,7 +67,7 @@ Formation courte expliquant comment créer un visuel Power BI.
 
 📘 Guide pédagogique expliquant comment choisir, créer et mettre en forme des graphiques Power BI.
 
-👉 [Télécharger le guide]()
+👉 [Télécharger le guide](Guide_de_creation_de_graphiques_avec_powerbi.pdf)
 
 ## 🖌️ Mock-up du Profil
 
