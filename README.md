@@ -68,3 +68,9 @@ Chaque projet dispose de son propre répertoire contenant :
 **Résumé :** Construire un modèle prédictif pour détecter les faux billets via clustering et régression logistique.
 
 **Compétences :** Analyse exploratoire • Clustering • Modélisation prédictive • Régression logistique.
+
+### 1️⃣3️⃣ — [Créer un portfolio de profesionnel de la data](./projet-13/)
+
+**Résumé :** Concevoir un portfolio professionnel incluant dashboards Power BI, documentation et vidéo tutorielle pour répondre aux besoins d’un client aéronautique.
+
+**Compétences :** Gestion de projet • Analyse métier • Datavisualisation • Power BI • Storytelling.
