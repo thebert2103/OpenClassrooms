@@ -73,13 +73,13 @@ Formation courte expliquant comment créer un visuel Power BI.
 
 ✏️ Design initial de la page profil du portfolio Power BI.
 
-👉 [Voir le mock-up profil](Dashboard%20Profil.jpg)
+👉 [Voir le mock-up profil](Mockup_profil.jpg)
 
 ## 🖌️ Mock-up de la veille technologique
 
 ✏️ Maquette du dashboard de veille technologique.
 
-👉 [Voir le mock-up veille]()
+👉 [Voir le mock-up veille](Mockup_veille.jpg)
 
 ## 📈 Dashboard du profil
 
