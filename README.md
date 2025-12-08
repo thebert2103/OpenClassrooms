@@ -69,7 +69,7 @@ Chaque projet dispose de son propre répertoire contenant :
 
 **Compétences :** Analyse exploratoire • Clustering • Modélisation prédictive • Régression logistique.
 
-### 1️⃣3️⃣ — [Créer un portfolio de professionnel de la data](./Projet-13/)
+### 1️⃣3️⃣ — [Créer un portfolio de professionnel de la data](./projet-13/)
 
 **Résumé :** Concevoir un portfolio professionnel incluant dashboards Power BI, documentation et vidéo tutorielle pour répondre aux besoins d’un client aéronautique.
 
