@@ -109,7 +109,7 @@ Tableau de veille
 
 KPI de synthèse
 
-👉 [Accéder au dashboard veille techno](Veille.pbix)
+👉 [Accéder au dashboard veille techno](Dashboard_Veille.pbix)
 
 ## 🏁 Projet réalisé dans le cadre du Parcours Data Analyst — OpenClassrooms
 
